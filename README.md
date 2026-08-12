@@ -79,21 +79,7 @@ Objetivo:
 
 </p>
 
----
 
-## 🎯 Roadmap
-
-* ✅ Git
-* ✅ GitHub
-* 🔄 HTML
-* 🔄 CSS
-* 🔄 JavaScript
-* ⏳ Python
-* ⏳ Banco de Dados
-* ⏳ APIs
-* ⏳ Desenvolvimento Web
-
----
 
 ## 📅 Minha Evolução
 
